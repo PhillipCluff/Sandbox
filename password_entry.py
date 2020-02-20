@@ -1,4 +1,4 @@
-"""Phillip Cluff"""
+"""Simple password length checking program Phillip Cluff"""
 
 
 def main():
